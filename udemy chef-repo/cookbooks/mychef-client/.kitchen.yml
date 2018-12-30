@@ -19,7 +19,7 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[my_haproxy::default]
+      - recipe[mychef-client::default]
     verifier:
       inspec_tests:
         - test/smoke/default

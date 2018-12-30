@@ -1,4 +1,4 @@
-# my_haproxy
+# mychef-client
 
 TODO: Enter the cookbook description here.
 
